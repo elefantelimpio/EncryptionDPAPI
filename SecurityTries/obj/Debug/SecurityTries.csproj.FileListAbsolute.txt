@@ -1,0 +1,5 @@
+C:\Work\SecurityTries\SecurityTries\bin\Debug\SecurityTries.dll
+C:\Work\SecurityTries\SecurityTries\bin\Debug\SecurityTries.pdb
+C:\Work\SecurityTries\SecurityTries\obj\Debug\SecurityTries.dll
+C:\Work\SecurityTries\SecurityTries\obj\Debug\SecurityTries.pdb
+C:\Work\SecurityTries\SecurityTries\obj\Debug\SecurityTries.csprojResolveAssemblyReference.cache

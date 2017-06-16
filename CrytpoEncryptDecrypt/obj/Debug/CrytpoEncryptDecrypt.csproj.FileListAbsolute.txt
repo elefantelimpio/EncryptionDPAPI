@@ -1,0 +1,7 @@
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\bin\Debug\CrytpoEncryptDecrypt.exe.config
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\bin\Debug\CrytpoEncryptDecrypt.exe
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\bin\Debug\CrytpoEncryptDecrypt.pdb
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\obj\Debug\CrytpoEncryptDecrypt.csprojResolveAssemblyReference.cache
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\obj\Debug\CrytpoEncryptDecrypt.exe
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\obj\Debug\CrytpoEncryptDecrypt.pdb
+C:\Work\SecurityTries\CrytpoEncryptDecrypt\bin\Debug\PwC.Framework.Encrypt.dll
